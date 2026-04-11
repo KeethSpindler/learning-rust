@@ -22,4 +22,6 @@ Windows + WSL2 (Debian)
 
 ### Language Version
 
-- Rust (rustc 1.94.1 (e408947bf 2026-03-25))
+- Rust
+  - rustc 1.94.1 (e408947bf 2026-03-25)
+  - cargo 1.94.1 (29ea6fb6a 2026-03-24)
